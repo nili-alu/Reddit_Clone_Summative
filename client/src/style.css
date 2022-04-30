@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,500,600,700');
+
+* {
+  box-sizing: border-box;
+  margin: 5%;
+  padding: 0;
+  margin-left: 5%;
+  background-color: rgb(240, 213, 213);
+  color: aliceblue;
+  
+}
+
+html {
+  height: 10%;
+}
+
+body {
+  min-height: 50%;
+  padding-bottom: 100px;
+  font-family: 'IBM Plex Sans', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+ 
+}
